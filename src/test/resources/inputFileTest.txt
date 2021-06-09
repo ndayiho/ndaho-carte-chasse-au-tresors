@@ -1,0 +1,12 @@
+#Carte
+C - 3 - 4
+#Montagne 1
+M - 1 - 1
+#Montagne 1
+M - 2 - 2
+#TRESOR 1
+T - 0 - 3 - 2
+#TRESOR 2
+T - 1 - 3 - 1
+#ADVENTURE
+A - Lara - 1 -  1 -  S - AADADAGGA
